@@ -10,7 +10,7 @@ Future<void> main() async {
   try {
     await Firebase.initializeApp(
       options: const FirebaseOptions(
-        apiKey: "AIzaSyAPixFZ8fJi839c1DA_TPkNYBFIZMIfs14",
+        apiKey: "",
         authDomain: "treer-e3d77.firebaseapp.com",
         projectId: "treer-e3d77",
         storageBucket: "treer-e3d77.appspot.com",
